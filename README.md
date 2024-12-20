@@ -15,7 +15,7 @@ Você pode acessar a versão ao vivo [aqui](https://base-de-conhecimento.netlify
 - HTML
 - CSS
 - JavaScript
-- Frameworks e bibliotecas (especificar, se aplicável)
+
 
 ## Instalação
 1. Clone o repositório:
